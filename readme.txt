@@ -1,7 +1,7 @@
 === Category Description Widget ===
 Contributors: dominik.schwind
 Requires at least: 3.0
-Tested up to: 4.2
+Tested up to: 4.9
 Stable tag: 2
 License: GPL2
 
